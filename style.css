@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.g_to_interact_with {
+  fill: transparent;
+}
+
+path {
+  stroke-width: 2;
+}
+
+.container {
+  margin: 50px auto;
+  width: 50%;
+}
+
+h1 {
+  text-align: center;
+  color: #ccc0b4;
+  text-transform: uppercase;
+  font-family: monospace;
+  font-size: 3rem;
+}
+
+#shadow_Image {
+  pointer-events: none;
+}
+svg {
+  margin: 2vw;
+}
